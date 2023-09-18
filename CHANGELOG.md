@@ -1,3 +1,4 @@
-#### 0.0.1 (2023-09-17)
-
+- create package
+- implement jsonapi
+- add changelog, modify setup.py
 - add setup.py
