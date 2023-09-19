@@ -7,7 +7,9 @@ I extended JSONEncoder and JSONDecoder to support serialize and deserialize comp
 1. Unzip the .tar.gz file.
 2. Change to directory that contains setup.py.
 3. Run the following code
+    
     python setup.py build
+    
     python setup.py install
 
 # Example
