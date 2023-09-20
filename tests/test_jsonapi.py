@@ -1,6 +1,5 @@
-
 import json
-import jsonapi
+from jsonapi import jsonapi
 import random
 
 
